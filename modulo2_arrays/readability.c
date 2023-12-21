@@ -83,4 +83,5 @@ int main(void)
     {
         printf("Grade %2.f\n", formula);
     }
+    return 0;
 }
