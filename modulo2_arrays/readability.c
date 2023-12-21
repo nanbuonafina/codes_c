@@ -18,10 +18,6 @@ int main(void)
             l++;
             // printf("Letras: %i\n", j);
         }
-        else
-        {
-            // printf("Não\n");
-        }
     }
     // printf("Letras: %2.f\n", l); // total de letras
 
@@ -35,10 +31,6 @@ int main(void)
         {
             s++;
             // printf("Espaços: %i\n", s);
-        }
-        else
-        {
-            // printf("Não\n");
         }
     }
     // printf("Espaços: %i\n", s);
@@ -55,10 +47,6 @@ int main(void)
         if (txt[i] == '.' || txt[i] == '!' || txt[i] == '?')
         {
             f++;
-        }
-        else
-        {
-            //
         }
     }
     // printf("Sentenças: %2.f\n", f);
