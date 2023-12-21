@@ -1,3 +1,5 @@
+// Recebe um número entre 1 e 8 referente a altura da pirâmide;
+
 #include <cs50.h>
 #include <stdio.h>
 
